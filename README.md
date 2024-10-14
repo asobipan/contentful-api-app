@@ -1,6 +1,6 @@
 ## Site URL
 
-[Contentful]([https://teal-horse-42f09c.netlify.app/])
+[Contentful](https://teal-horse-42f09c.netlify.app/)
 
 ## Steps
 
